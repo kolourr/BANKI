@@ -40,9 +40,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 ### Questions
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
+  - **Cause:** I had set of goal of losing 20 lbs and wanted to keep track of my progress throughout the year. 
+  - **Action:** So I figured it would be a fun opportunity to research all the different fat-loss tracking methods and put it together in a web app so I could keep coming back to it every month.  
+  - **Result:** This turned out to be something many others wanted as well and now about 70 to 200 people use estimatebodyfat.com everyday. The adsense revenue from the website helps pay for the server costs and even generates a little profit. 
+
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**
   - **Action:**
