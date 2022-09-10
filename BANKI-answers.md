@@ -179,7 +179,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 Most of the technical questions should have a three sentence response in the EUE format:
 
 - **Explanation**
-- **Use**
+- **Use**   
 - **Example**
 
 ### HTML
