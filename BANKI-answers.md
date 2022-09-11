@@ -65,9 +65,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] B5) Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 

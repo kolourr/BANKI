@@ -59,37 +59,50 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
 
-
-  - **Cause:** We had a rollout of shipments going on in which the schedule was tight. For the goods to come in, get assembled and leave the warehouse "orders" needed to be created in our ERP system which was a particular team members responsibility. I requested several times that they be created, but by the day in which they had to be created to not affect timing they were still not done.
-  - **Action:** I gathered the team member along with two others on our team to discuss the issue. I explained the urgency of the matter along with the tasks that needed to be completed and when. I have to admit I had a rather frustrated demeanor. The responsible team member said they couldn't do it. I suggested that they build one order with all of us there and perhaps we could split the work.
-  - **Result:** The orders ended up mostly being done by the responsible team member once they realized I'd provided the information in a clear to follow format. I apologized for for my foul attitude. I learned that I should've had more present and active communication with a team member that is responsible for the next task in the workflow rather than "throwing" the task over the fence per se.
+  - **Cause:** At my last opportunity, I was working with my Department Head in transitioning Project Controls Data (i.e. contract prices, forecasts, budgets) to the new PRISM system and as part of that transition, the DH wanted to replace the old data collection system by purchasing a new one in the open market as he felt the old one made collecting the data hard for the analysts.
+  - **Action:**  While I agreed the old data collection system was inefficient, I proposed that we work with our IT team in rebuilding the current system to suit the analysts workload better. To prove my point, I build a mockup of what the future system would be like and then ran a poll amongst the end users (i.e., analysts) and they all prefered this upgrade instead of having to learn something new again 
+  - **Result:** I then presented the results of the poll along with the new solution to my DH and upon seeing the results of the poll and the new design, he agreed that we should be rebuilding this data collection system in house instead of buying something entirely new.  
 
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
 
+  - **Cause:** Upon joining at my previous opportunity, I noticed many members of my team would produce monthly reports on various items that required a lot of manual data input. These reports were always time sensitive to the business and the anlysts were always running to get them complete 
+  - **Action:** I decided to speak with them to see if I could help automate their taks via VBA or Macros thereby reducing their workload and helping them focus more on the analysis not on the manual data input.
+  - **Result:** I spent an entire week documenting their task and another 2 weeks building a small program to automate about 60% of their workload. This helped free up their time to focus on more business senstive work 
+ 
+
+- [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+
+  - **Cause:** At my previous opportunity, when I fined joined the team, I was assigned the task of building a data model that showed the linkage between the different policies on how they impact the various Engineering, Construction & Expansion Teams. My Supervisor knew this would take some time because of how scattered all the data sources were.  
+  - **Action:**I however replied immeditely saying it would take just 3 days as I was trying to set a good impression on her. Well, coneecting all the data sources and building the model would actually take much longer and I wasnt able to deliver the project on time.
+  - **Result:**In hindsight, I should have been more open and communicated that I would get back to her at the end of the day so I could first understand the scope of what is being asked of me. Luckily, my manager was kind enough to see that I was being sincere and worked with me to see it being complete. 
+
+
+- [ ] Give an example of an important project goal you reached and how you achieved it.
+  - **Cause:** At my previous opporunity, the department I worked has set a goal of becoming COR ceritifed (highest safety certification in Ontario, Canada) by as an Owner Orginization not a Constructor. This was a huge challenge because all the reference material was prepared for Contracting Companies not Owner Orgnizations. 
+  - **Action:** I worked with the Manager - Safety & Secuity in developiing the roadmap, policy structure, staffing and staffing structure required to achieve this ceritifcation and presented this to the Chief Capital Officer. I worked with the safety analysts and construction safety officers in crafting policies to address all the challenges in the ECE Group   
+  - **Result:**At the end of 4 years, the department has now closed all its gaps and is in the process of the final audit by IHSA and will end up being the first Owner-Orgnization with a COR certification. 
+
+
+- [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
+
+
+  - **Cause:**At my previous opportunity, while working with team responsible for transioning the Project Controls section to PRISM, I requested access to existing data sources for contract information so I could work with Pricing Analysts to build the templates required for the transfer of data to PRISM. My dirctor at the time refused this request as she deemed it unneessary that I be given access to contract specific confidential information.
+  - **Action:**I decided to hold a meeting with my Director and the Department Head and made a quick presentation expalining the need for my request and that it would help accelerate the easy transition of data from the current sources to PRISM.
+  - **Result:**Once my director was able to understand the actual use of the data and its security, she autorized my access. 
+
+ 
+- [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
+
   - **Cause:**
   - **Action:**
   - **Result:**
 
-- [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Give an example of an important project goal you reached and how you achieved it.
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
+
   - **Cause:**
   - **Action:**
   - **Result:**
+  
 - [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
   - **Cause:**
   - **Action:**
@@ -107,17 +120,23 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 - [ ] What do you know about our company?
+
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Why do you want to work for us?
+
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Why are you interested in this opportunity?
+
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Tell me about your dream job?  What do you really want to do with your career?
   - **Cause:**
   - **Action:**
@@ -135,9 +154,15 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 - [ ] Do you have any questions?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
+1. How does Bob’s Burgers measure the success of their engineers?
+2. What challenges can an engineer come across working at Bob’s Burgers?
+3. Can you explain "thing you read on their engineering blog" and how it affects Bob’s Burgers Engineers?
+4. What traits in an engineer are hard to find in an engineer that Bob’s Burgers would like to have?
+5. How is critique given to engineers at Bob’s Burgers?
+6. Do you have any questions or concerns about my qualifications?
+
+Helpful list of other reverse interview questions: https://github.com/viraptor/reverse-interview
 
 ## Technical Questions
 
