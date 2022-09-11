@@ -46,21 +46,30 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:** This turned out to be something many others wanted as well and now about 70 to 200 people use estimatebodyfat.com everyday. The adsense revenue from the website helps pay for the server costs and even generates a little profit. 
 
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
+  - **Cause:** I was working on multiple policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation. 
+  - **Action:** I convinced my director to loan me an anaylst from a different team to help in the data collection and validation process as the number of policies that required to fit various by-laws grew. I would prepare detailed weekly guides of what was expected of the analyst. 
+  - **Result:** In the end, my director was convinced that having a decidated analyst on our team would help speed the policy development and decided to create a full time position for that role. 
+
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
+  - **Cause:** I had an intern working with me when I was developing policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation
+  - **Action:** I explained to them what was required for the data collection and validation process and then left them to finish it.
+  - **Result:** After a few hours I came to see what the final result was and found the templates were filled out incorrectly and there were a lot of holes in the research. To rectify the error, I decided to have a working session with the intern to show them exactly what was required and then worked with them to create an SOP so future interns and analysts have a detailed guide on reserach expectations.  
+  
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
+
+  - **Cause:** We had a rollout of shipments going on in which the schedule was tight. For the goods to come in, get assembled and leave the warehouse "orders" needed to be created in our ERP system which was a particular team members responsibility. I requested several times that they be created, but by the day in which they had to be created to not affect timing they were still not done.
+  - **Action:** I gathered the team member along with two others on our team to discuss the issue. I explained the urgency of the matter along with the tasks that needed to be completed and when. I have to admit I had a rather frustrated demeanor. The responsible team member said they couldn't do it. I suggested that they build one order with all of us there and perhaps we could split the work.
+  - **Result:** The orders ended up mostly being done by the responsible team member once they realized I'd provided the information in a clear to follow format. I apologized for for my foul attitude. I learned that I should've had more present and active communication with a team member that is responsible for the next task in the workflow rather than "throwing" the task over the fence per se.
+
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
+
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
   - **Cause:**
   - **Action:**
