@@ -93,23 +93,26 @@ Most of the behavioral questions should be answered in the CAR format. At least 
  
 - [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** Projects never go according to the initial plan. At my previous opportunity, I was responsible for developing the training schedule, planning the rollout and forcasting the time it would take to transition to the new software system for managing all the Project Controls data (schduling, budgets, contracts, forecasts). I made a presentation to the Department Head and the rest of the Project Controls team. 
+  - **Action:** My schedule forcastted that we would be able to transition to the new system within 6 months and have the system up and runnining within 1 year. 
+  - **Result:** Sadly, I underestimated how long the procurment process would take for being a government orginization which includes the testing and validation stages prior to the contract even being awarded. It was simply not a process of choosing the best avalaible software package and going with it. I learnt that when planning a project, it is important to consider the industry you are in, the regulatory envrionment that the industry functions in and the secruity and transfer of safety critical data requires probably double or even triple the time you initially allocate for it. 
 
-
-  
 
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
 
+  - **Cause:** At my previous opportunity, as the Project Manager for the Prism rollout for the Project Controls Section of the ECE Group, I scheduled the training of the super users as soon as the contract was signed so that they would get upto speed with the new software 
+  - **Action:**The training sessions went off smoothly but the infrastructure was not setup for the super users to continue using the software after the training was completed. 
+  - **Result:** It would take another 6 months before the software would be fully rolled out after which I was forced to rescshdule the training as most of the super user forgot what they had learnt. I learnt the importance of planning things all the way instead of trying to rush the process. The final training session with the Train the Trainers, Super Users and End Users was only scheduled when the entire infrastruce was setup. I also recorded all the training sessions to ensure there would always be training material for the end users. 
+
+
+- [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
+
+
   - **Cause:**
   - **Action:**
   - **Result:**
 
-- [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
 - [ ] Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
   - **Cause:**
   - **Action:**
