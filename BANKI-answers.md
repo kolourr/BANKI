@@ -6,6 +6,21 @@
 
 ---
 
+Learn and Be Curious
+Earns Trust -yes
+Customer Obsession
+Bias for Action
+Dive Deep
+What did they think was the most under-rated LP? This kinda took them a while to come up with an answer, but I think they liked the question.
+
+The info included System Desing WTF?!?! Did some reading on it, and reached out to beer-chat buddy to talk about system design. They said it’s not usually part of the SDE I level interviews so I stopped studying it. Did some studying on OOP.
+
+ kind of Object Oriented Design, but only dealing with a single class and the props and methods that it needed along with the algorithms within them
+ - Go deep on core programming (loops, objects, conditionals) don’t waste time learning obscure methods or learning a bunch of different frameworks.
+- Understand how to systematically break a problem down into smaller problems. If you get stuck, find a way to take a smaller bite so you don’t feel overwhelmed.
+- Do ANKI. Just do it.
+
+
 ## Table of Contents
 
 1. [Behaviorial](#behavioral)
@@ -72,23 +87,23 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B7) Give an example of an important project goal you reached and how you achieved it.
 
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
 
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [x] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
 
@@ -99,22 +114,22 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 - [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
 
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
 
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B13) Tell me about yourself.
 
@@ -128,45 +143,45 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] b15) What do you know about our company?
 
-  - **Cause:** 
+  - **Cause:**
   - **Action:**
   - **Result:**
 
 - [ ] B16) Why do you want to work for us?
 
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
-  
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+
 
 - [ ] B17) Why are you interested in this opportunity?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B18) Tell me about your dream job?  What do you really want to do with your career?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [ ] B19) Tell me a time when you failed.
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [x] B20) What do you read on a regular basis?
   - I tend to go through phases of topics. Recently I've been reading various books on Data Structures & Algorithms along with books about Design/Graphic Design. I'll also typically read about the natural world (plant/animal species identification, geology, environmental issues), history (particularly Pacific Northwest and Japan), architecture and travel writing. I'm a huge fan of our public library system and I regularly use it.
 
 - [ ] B21) What's some critical feedback you've gotten recently?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
-  
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+
 
 - [ ] B22) Do you have any questions?
 - What is the interview process like? What is the timeline?
@@ -180,7 +195,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 Most of the technical questions should have a three sentence response in the EUE format:
 
 - **Explanation**
-- **Use**   
+- **Use**
 - **Example**
 
 ### HTML
@@ -208,7 +223,7 @@ Most of the technical questions should have a three sentence response in the EUE
     - Language reading direction
     - Don't concatenate translated strings
   - **Source:** https://www.frontendinterviewhandbook.com/html-questions
-  
+
 - [x] T-HTML-4) What are `data-` attributes good for?
   - **Explanation:** They store data private to the page or application.
   - **Use:** They were often used for storing extra data in the DOM, but are generally discouraged now.
@@ -231,7 +246,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Explanation:** Cookies can be initiated by the server, have a manually set expiration date are small file size and are sent to the server with HTTP request. Local and session are both initiated by the client, are a relatively large file and aren't sent to the server. The main difference between local and session is that local storage will persist forever until cleared manually.
   - **Use:** They are all used for client side storage of strings in key-value pairs.
   - **Source:** https://www.frontendinterviewhandbook.com/html-questions
-  
+
 - [x] T-HTML-7) Describe the difference between `<script>, <script async> and <script defer>`.
   - **Explanation:**
     - `<script>` HTML parsing is blocked, script is fetched and executed immediately.
@@ -504,7 +519,7 @@ h6 {
   - **Explanation:** Both responsive and adaptive design attempt to optimize the user experience across different devices.
   - **Use:** Responsive design works on the principle of flexibility - a single fluid website that can look good on any device. Instead of one flexible design, adaptive design detects the device then provides the appropriate feature and layout based on a predefined set of viewport sizes and other characteristics. I believe responsive is the best approach to provide a great experience for all users.
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
-  
+
 - [x] T-CSS-30) Have you ever worked with retina graphics? If so, when and what techniques did you use?
   - **Explanation:** Retina is just a marketing term to refer to high resolution screens with a pixel ratio bigger than 1. In order to have crisp, good-looking graphics that make the best of retina displays we need to use high resolution images whenever possible. However using highest resolution images will have an impact on page load times.
   - **Use:** To overcome this problem, we can use responsive images, as specified in HTML5 with the `srcset` attribute.
@@ -516,7 +531,7 @@ h6 {
   />
   ```
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
-  
+
 - [x] T-CSS-31) Is there any reason you'd want to use `translate()` instead of `absolute` positioning, or vice-versa? And why?
   - **Explanation:** `translate()` is a value of CSS `transform`. `transform` causes the browser to create a GPU layer for the element but changing absolute positioning properties uses the CPU. `translate()` would be the more efficient solution with shorter paint times. If you do not want the original space of the element preserved you would want to use `absolute` positioning.
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
@@ -1029,7 +1044,7 @@ function main() {
   - **Explanation:** The former is a function declaration while the latter is a function expression.
   - **Use:** The function declaration is hoisted and can therefore be accessed from anywhere, whereas the function expression can only be accessed after it's been defined.
   - **Example:**
-  
+
   ```javascript
   console.log(name('Curtis')) // can be accessed before initialization (hoisted)
 
