@@ -41,46 +41,46 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
 
-  - **Cause:** I had set of goal of losing 20 lbs and wanted to keep track of my progress throughout the year. 
-  - **Action:** So I figured it would be a fun opportunity to research all the different fat-loss tracking methods and put it together in a web app so I could keep coming back to it every month.  
-  - **Result:** This turned out to be something many others wanted as well and now about 70 to 200 people use estimatebodyfat.com everyday. The adsense revenue from the website helps pay for the server costs and even generates a little profit. 
+  - **Cause:** I had set of goal of losing 20 lbs and wanted to keep track of my progress throughout the year.
+  - **Action:** So I figured it would be a fun opportunity to research all the different fat-loss tracking methods and put it together in a web app so I could keep coming back to it every month.
+  - **Result:** This turned out to be something many others wanted as well and now about 70 to 200 people use estimatebodyfat.com everyday. The adsense revenue from the website helps pay for the server costs and even generates a little profit.
 
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
 
-  - **Cause:** I was working on multiple policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation. 
-  - **Action:** I convinced my director to loan me an anaylst from a different team to help in the data collection and validation process as the number of policies that required to fit various by-laws grew. I would prepare detailed weekly guides of what was expected of the analyst. 
-  - **Result:** In the end, my director was convinced that having a decidated analyst on our team would help speed the policy development and decided to create a full time position for that role. 
+  - **Cause:** I was working on multiple policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation.
+  - **Action:** I convinced my director to loan me an anaylst from a different team to help in the data collection and validation process as the number of policies that required to fit various by-laws grew. I would prepare detailed weekly guides of what was expected of the analyst.
+  - **Result:** In the end, my director was convinced that having a decidated analyst on our team would help speed the policy development and decided to create a full time position for that role.
 
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
 
   - **Cause:** I had an intern working with me when I was developing policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation
   - **Action:** I explained to them what was required for the data collection and validation process and then left them to finish it.
-  - **Result:** After a few hours I came to see what the final result was and found the templates were filled out incorrectly and there were a lot of holes in the research. To rectify the error, I decided to have a working session with the intern to show them exactly what was required and then worked with them to create an SOP so future interns and analysts have a detailed guide on reserach expectations.  
-  
+  - **Result:** After a few hours I came to see what the final result was and found the templates were filled out incorrectly and there were a lot of holes in the research. To rectify the error, I decided to have a working session with the intern to show them exactly what was required and then worked with them to create an SOP so future interns and analysts have a detailed guide on reserach expectations.
+
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
 
   - **Cause:** At my last opportunity, I was working with my Department Head in transitioning Project Controls Data (i.e. contract prices, forecasts, budgets) to the new PRISM system and as part of that transition, the DH wanted to replace the old data collection system by purchasing a new one in the open market as he felt the old one made collecting the data hard for the analysts.
-  - **Action:**  While I agreed the old data collection system was inefficient, I proposed that we work with our IT team in rebuilding the current system to suit the analysts workload better. To prove my point, I build a mockup of what the future system would be like and then ran a poll amongst the end users (i.e., analysts) and they all prefered this upgrade instead of having to learn something new again 
-  - **Result:** I then presented the results of the poll along with the new solution to my DH and upon seeing the results of the poll and the new design, he agreed that we should be rebuilding this data collection system in house instead of buying something entirely new.  
+  - **Action:**  While I agreed the old data collection system was inefficient, I proposed that we work with our IT team in rebuilding the current system to suit the analysts workload better. To prove my point, I build a mockup of what the future system would be like and then ran a poll amongst the end users (i.e., analysts) and they all prefered this upgrade instead of having to learn something new again
+  - **Result:** I then presented the results of the poll along with the new solution to my DH and upon seeing the results of the poll and the new design, he agreed that we should be rebuilding this data collection system in house instead of buying something entirely new.
 
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
 
-  - **Cause:** Upon joining at my previous opportunity, I noticed many members of my team would produce monthly reports on various items that required a lot of manual data input. These reports were always time sensitive to the business and the anlysts were always running to get them complete 
+  - **Cause:** Upon joining at my previous opportunity, I noticed many members of my team would produce monthly reports on various items that required a lot of manual data input. These reports were always time sensitive to the business and the anlysts were always running to get them complete
   - **Action:** I decided to speak with them to see if I could help automate their taks via VBA or Macros thereby reducing their workload and helping them focus more on the analysis not on the manual data input.
-  - **Result:** I spent an entire week documenting their task and another 2 weeks building a small program to automate about 60% of their workload. This helped free up their time to focus on more business senstive work 
- 
+  - **Result:** I spent an entire week documenting their task and another 2 weeks building a small program to automate about 60% of their workload. This helped free up their time to focus on more business senstive work
+
 
 - [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 
-  - **Cause:** At my previous opportunity, when I fined joined the team, I was assigned the task of building a data model that showed the linkage between the different policies on how they impact the various Engineering, Construction & Expansion Teams. My Supervisor knew this would take some time because of how scattered all the data sources were.  
+  - **Cause:** At my previous opportunity, when I fined joined the team, I was assigned the task of building a data model that showed the linkage between the different policies on how they impact the various Engineering, Construction & Expansion Teams. My Supervisor knew this would take some time because of how scattered all the data sources were.
   - **Action:**I however replied immeditely saying it would take just 3 days as I was trying to set a good impression on her. Well, coneecting all the data sources and building the model would actually take much longer and I wasnt able to deliver the project on time.
-  - **Result:**In hindsight, I should have been more open and communicated that I would get back to her at the end of the day so I could first understand the scope of what is being asked of me. Luckily, my manager was kind enough to see that I was being sincere and worked with me to see it being complete. 
+  - **Result:**In hindsight, I should have been more open and communicated that I would get back to her at the end of the day so I could first understand the scope of what is being asked of me. Luckily, my manager was kind enough to see that I was being sincere and worked with me to see it being complete.
 
 
 - [ ] Give an example of an important project goal you reached and how you achieved it.
-  - **Cause:** At my previous opporunity, the department I worked has set a goal of becoming COR ceritifed (highest safety certification in Ontario, Canada) by as an Owner Orginization not a Constructor. This was a huge challenge because all the reference material was prepared for Contracting Companies not Owner Orgnizations. 
-  - **Action:** I worked with the Manager - Safety & Secuity in developiing the roadmap, policy structure, staffing and staffing structure required to achieve this ceritifcation and presented this to the Chief Capital Officer. I worked with the safety analysts and construction safety officers in crafting policies to address all the challenges in the ECE Group   
-  - **Result:**At the end of 4 years, the department has now closed all its gaps and is in the process of the final audit by IHSA and will end up being the first Owner-Orgnization with a COR certification. 
+  - **Cause:** At my previous opporunity, the department I worked has set a goal of becoming COR ceritifed (highest safety certification in Ontario, Canada) by as an Owner Orginization not a Constructor. This was a huge challenge because all the reference material was prepared for Contracting Companies not Owner Orgnizations.
+  - **Action:** I worked with the Manager - Safety & Secuity in developiing the roadmap, policy structure, staffing and staffing structure required to achieve this ceritifcation and presented this to the Chief Capital Officer. I worked with the safety analysts and construction safety officers in crafting policies to address all the challenges in the ECE Group
+  - **Result:**At the end of 4 years, the department has now closed all its gaps and is in the process of the final audit by IHSA and will end up being the first Owner-Orgnization with a COR certification.
 
 
 - [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
@@ -88,46 +88,46 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
   - **Cause:**At my previous opportunity, while working with team responsible for transioning the Project Controls section to PRISM, I requested access to existing data sources for contract information so I could work with Pricing Analysts to build the templates required for the transfer of data to PRISM. My dirctor at the time refused this request as she deemed it unneessary that I be given access to contract specific confidential information.
   - **Action:**I decided to hold a meeting with my Director and the Department Head and made a quick presentation expalining the need for my request and that it would help accelerate the easy transition of data from the current sources to PRISM.
-  - **Result:**Once my director was able to understand the actual use of the data and its security, she autorized my access. 
+  - **Result:**Once my director was able to understand the actual use of the data and its security, she autorized my access.
 
- 
+
 - [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
 
-  - **Cause:** Projects never go according to the initial plan. At my previous opportunity, I was responsible for developing the training schedule, planning the rollout and forcasting the time it would take to transition to the new software system for managing all the Project Controls data (schduling, budgets, contracts, forecasts). I made a presentation to the Department Head and the rest of the Project Controls team. 
-  - **Action:** My schedule forcastted that we would be able to transition to the new system within 6 months and have the system up and runnining within 1 year. 
-  - **Result:** Sadly, I underestimated how long the procurment process would take for being a government orginization which includes the testing and validation stages prior to the contract even being awarded. It was simply not a process of choosing the best avalaible software package and going with it. I learnt that when planning a project, it is important to consider the industry you are in, the regulatory envrionment that the industry functions in and the secruity and transfer of safety critical data requires probably double or even triple the time you initially allocate for it. 
+  - **Cause:** Projects never go according to the initial plan. At my previous opportunity, I was responsible for developing the training schedule, planning the rollout and forcasting the time it would take to transition to the new software system for managing all the Project Controls data (schduling, budgets, contracts, forecasts). I made a presentation to the Department Head and the rest of the Project Controls team.
+  - **Action:** My schedule forcastted that we would be able to transition to the new system within 6 months and have the system up and runnining within 1 year.
+  - **Result:** Sadly, I underestimated how long the procurment process would take for being a government orginization which includes the testing and validation stages prior to the contract even being awarded. It was simply not a process of choosing the best avalaible software package and going with it. I learnt that when planning a project, it is important to consider the industry you are in, the regulatory envrionment that the industry functions in and the secruity and transfer of safety critical data requires probably double or even triple the time you initially allocate for it.
 
 
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
 
-  - **Cause:** At my previous opportunity, as the Project Manager for the Prism rollout for the Project Controls Section of the ECE Group, I scheduled the training of the super users as soon as the contract was signed so that they would get upto speed with the new software 
-  - **Action:**The training sessions went off smoothly but the infrastructure was not setup for the super users to continue using the software after the training was completed. 
-  - **Result:** It would take another 6 months before the software would be fully rolled out after which I was forced to rescshdule the training as most of the super user forgot what they had learnt. I learnt the importance of planning things all the way instead of trying to rush the process. The final training session with the Train the Trainers, Super Users and End Users was only scheduled when the entire infrastruce was setup. I also recorded all the training sessions to ensure there would always be training material for the end users. 
+  - **Cause:** At my previous opportunity, as the Project Manager for the Prism rollout for the Project Controls Section of the ECE Group, I scheduled the training of the super users as soon as the contract was signed so that they would get upto speed with the new software
+  - **Action:**The training sessions went off smoothly but the infrastructure was not setup for the super users to continue using the software after the training was completed.
+  - **Result:** It would take another 6 months before the software would be fully rolled out after which I was forced to rescshdule the training as most of the super user forgot what they had learnt. I learnt the importance of planning things all the way instead of trying to rush the process. The final training session with the Train the Trainers, Super Users and End Users was only scheduled when the entire infrastruce was setup. I also recorded all the training sessions to ensure there would always be training material for the end users.
 
 
 - [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
 
-  - **Cause:** At my previous opportunity, I had a collegue who wasnt pulling their weight when it came to performing reviews for the various policies that we were working on together for the Engineering, Construction & Expansion group. This really become an issue when managers outside our department started to complain about the various mistakes in the documents. 
+  - **Cause:** At my previous opportunity, I had a collegue who wasnt pulling their weight when it came to performing reviews for the various policies that we were working on together for the Engineering, Construction & Expansion group. This really become an issue when managers outside our department started to complain about the various mistakes in the documents.
   - **Action:** I spoke with my director about the current situation and proposed that I have a one on one session with the collegue to go through the policy where they woudld be able to job shadow me and where we could walk through the steps togther.
-  - **Result:** My collegue was able to see what was required for during the review without them being offended and the managers from the other departments benefited from the reviews having a consistent standard. 
+  - **Result:** My collegue was able to see what was required for during the review without them being offended and the managers from the other departments benefited from the reviews having a consistent standard.
 
 
 - [ ] Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
 
 
-  - **Cause:** At my previous consulting work for mydogtag.com, I was brought in when the e-commerce site started experiencing a sharp decline in traffic and conversions due to various google algorithm changes 
-  - **Action:**It was an intense 3 months of reworking many of the websites pages, onboarding strategies and convincing the owner that of the need for email capture, drip feeds and ongoing content creattion to improve the site's rankings and the need for keeping the brand on top of the consumer's mind 
-  - **Result:**The website was able to not just rank #1 on google, but also obtain the top snippet and increase the  daily conversions to 4 to 6% with a comibined on-site and offsite SEO efforts, linkbuilding strategies and consistent paid adwords strategy. 
+  - **Cause:** At my previous consulting work for mydogtag.com, I was brought in when the e-commerce site started experiencing a sharp decline in traffic and conversions due to various google algorithm changes
+  - **Action:**It was an intense 3 months of reworking many of the websites pages, onboarding strategies and convincing the owner that of the need for email capture, drip feeds and ongoing content creattion to improve the site's rankings and the need for keeping the brand on top of the consumer's mind
+  - **Result:**The website was able to not just rank #1 on google, but also obtain the top snippet and increase the  daily conversions to 4 to 6% with a comibined on-site and offsite SEO efforts, linkbuilding strategies and consistent paid adwords strategy.
 
 - [ ] Tell me about yourself.
 
-  - **Discussion:** I'm Bruce, an industrial engineer and artist turned full-stack engineer specializing in JavaScript, React, Node.js, SQL and MongoDB. I love learning, reading and building things that have a positive impact on the world. 
+  - **Discussion:** I'm Bruce, an industrial engineer and artist turned full-stack engineer specializing in JavaScript, React, Node.js, SQL and MongoDB. I love learning, reading and building things that have a positive impact on the world.
 
-  - **Discussion:** I have experience working in manufacturing, transportation, app development, growth hacking and even e-commerce. I have led training sessions, developed complex policies, led a department through a software tranformation and was even commissioning various equipment. In my free time, I make Indie-Pop music.     
+  - **Discussion:** I have experience working in manufacturing, transportation, app development, growth hacking and even e-commerce. I have led training sessions, developed complex policies, led a department through a software tranformation and was even commissioning various equipment. In my free time, I make Indie-Pop music.
 
 - [ ] Tell me about your experience at 100Devs.
 
-  - 100Devs is an agency with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used with React, Node, Express and MongoDB.
+  - 100Devs is an agency with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used with React, Node, Express and MongoDB
 
 - [ ] What do you know about our company?
 
@@ -151,26 +151,26 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Tell me about your dream job?  What do you really want to do with your career?
 
-  - **Discussion:** My dream job really has to do with the type of impact I can have on the world. My end goal is to build things that affect humanity positively, so a job that allows me to make a positive impact on the world where I'm also learning a lot is my dream job. The title is irrrelevant. 
- 
+  - **Discussion:** My dream job really has to do with the type of impact I can have on the world. My end goal is to build things that affect humanity positively, so a job that allows me to make a positive impact on the world where I'm also learning a lot is my dream job. The title is irrrelevant.
+
 
 - [ ] Tell me a time when you failed.
 
-  - **Cause:** At my previous employment, I was selected to lead the United Ways Chapter of the orgnization in the hopes of raising funds for charity. 
-  - **Action:** As the leader, I felt that I was required to keep a stern demeanor and constatly push the volunteers to do more and reach out to more employees and local employers for donations. 
-  - **Result:**In hindsight, even thogh we exceeded the target fundraising amount, I created a lot of tension amongst the volunteers who would have been more supportive had I taken a more liberal and softer approach. I learnt a lot from this stint and have applied to many areas of my life. 
+  - **Cause:** At my previous employment, I was selected to lead the United Ways Chapter of the orgnization in the hopes of raising funds for charity.
+  - **Action:** As the leader, I felt that I was required to keep a stern demeanor and constatly push the volunteers to do more and reach out to more employees and local employers for donations.
+  - **Result:**In hindsight, even thogh we exceeded the target fundraising amount, I created a lot of tension amongst the volunteers who would have been more supportive had I taken a more liberal and softer approach. I learnt a lot from this stint and have applied to many areas of my life.
 
 
 - [ ] What do you read on a regular basis?
 
-  - **Discussion:** I love reading non-fiction books and autobiographies of great leaders and entrepreneurs that have had a big impact on the world. The last book I read was the cold start problem by Andrew Chen. The last book I re-read for the third time was Antifragile by Naseem Taleb. 
- 
+  - **Discussion:** I love reading non-fiction books and autobiographies of great leaders and entrepreneurs that have had a big impact on the world. The last book I read was the cold start problem by Andrew Chen. The last book I re-read for the third time was Antifragile by Naseem Taleb.
+
 
 - [ ] What's some critical feedback you've gotten recently?
 
   - **Cause:** I have always been a results oriented person and have strived to push myself to get the maximum out of what is required of me. This has sometimes backfired when the expectations of myself seep into the expectations of my collegues.
-  - **Action:**I did learn this the hard way when my director brought me to the side to eloborate on this shortcoming of mine. 
-  - **Result:**It was a tough pill to swallow but because of this conversation I've been made aware of things I can improve to make myself a better leader and someone who other people would like to follow 
+  - **Action:**I did learn this the hard way when my director brought me to the side to eloborate on this shortcoming of mine.
+  - **Result:**It was a tough pill to swallow but because of this conversation I've been made aware of things I can improve to make myself a better leader and someone who other people would like to follow
 
 
 - [ ] Do you have any questions?
@@ -186,7 +186,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 Most of the technical questions should have a three sentence response in the EUE format:
 
 - **Explanation**
-- **Use**   
+- **Use**
 - **Example**
 
 ### HTML
@@ -214,7 +214,7 @@ Most of the technical questions should have a three sentence response in the EUE
     - Language reading direction
     - Don't concatenate translated strings
   - **Source:** https://www.frontendinterviewhandbook.com/html-questions
-  
+
 - [x] T-HTML-4) What are `data-` attributes good for?
   - **Explanation:** They store data private to the page or application.
   - **Use:** They were often used for storing extra data in the DOM, but are generally discouraged now.
@@ -237,7 +237,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Explanation:** Cookies can be initiated by the server, have a manually set expiration date are small file size and are sent to the server with HTTP request. Local and session are both initiated by the client, are a relatively large file and aren't sent to the server. The main difference between local and session is that local storage will persist forever until cleared manually.
   - **Use:** They are all used for client side storage of strings in key-value pairs.
   - **Source:** https://www.frontendinterviewhandbook.com/html-questions
-  
+
 - [x] T-HTML-7) Describe the difference between `<script>, <script async> and <script defer>`.
   - **Explanation:**
     - `<script>` HTML parsing is blocked, script is fetched and executed immediately.
@@ -510,7 +510,7 @@ h6 {
   - **Explanation:** Both responsive and adaptive design attempt to optimize the user experience across different devices.
   - **Use:** Responsive design works on the principle of flexibility - a single fluid website that can look good on any device. Instead of one flexible design, adaptive design detects the device then provides the appropriate feature and layout based on a predefined set of viewport sizes and other characteristics. I believe responsive is the best approach to provide a great experience for all users.
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
-  
+
 - [x] T-CSS-30) Have you ever worked with retina graphics? If so, when and what techniques did you use?
   - **Explanation:** Retina is just a marketing term to refer to high resolution screens with a pixel ratio bigger than 1. In order to have crisp, good-looking graphics that make the best of retina displays we need to use high resolution images whenever possible. However using highest resolution images will have an impact on page load times.
   - **Use:** To overcome this problem, we can use responsive images, as specified in HTML5 with the `srcset` attribute.
@@ -522,7 +522,7 @@ h6 {
   />
   ```
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
-  
+
 - [x] T-CSS-31) Is there any reason you'd want to use `translate()` instead of `absolute` positioning, or vice-versa? And why?
   - **Explanation:** `translate()` is a value of CSS `transform`. `transform` causes the browser to create a GPU layer for the element but changing absolute positioning properties uses the CPU. `translate()` would be the more efficient solution with shorter paint times. If you do not want the original space of the element preserved you would want to use `absolute` positioning.
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
@@ -1035,7 +1035,7 @@ function main() {
   - **Explanation:** The former is a function declaration while the latter is a function expression.
   - **Use:** The function declaration is hoisted and can therefore be accessed from anywhere, whereas the function expression can only be accessed after it's been defined.
   - **Example:**
-  
+
   ```javascript
   console.log(name('Curtis')) // can be accessed before initialization (hoisted)
 
