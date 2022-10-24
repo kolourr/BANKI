@@ -47,9 +47,12 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
 
-  - **Cause:** I was working on multiple policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation.
-  - **Action:** I convinced my director to loan me an anaylst from a different team to help in the data collection and validation process as the number of policies that required to fit various by-laws grew. I would prepare detailed weekly guides of what was expected of the analyst.
-  - **Result:** In the end, my director was convinced that having a decidated analyst on our team would help speed the policy development and decided to create a full time position for that role.
+ - **Cause:** I was working on multiple policies for the Engineering and Project Controls Departments at the Toronto Transit Commission that required extensive research, data collection and validation. In the beginning, I was doing all the research myself.
+
+ - **Action:** I convinced my director to loan me an anaylst from a different team to help in the data collection and validation process as the number of policies that required to fit various by-laws grew. I would prepare detailed weekly guides of what was expected of the analyst. Working together, we were able to get through the reviews and comments cycle much faster
+
+ - **Result:** In the end, my director was convinced that having a dedicated analyst on our team would help speed the policy development and decided to create a full time position for that role.
+
 
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
 
@@ -121,9 +124,9 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Tell me about yourself.
 
-  - **Discussion:** I'm Bruce, an industrial engineer and artist turned full-stack engineer specializing in JavaScript, React, Node.js, SQL and MongoDB. I love learning, reading and building things that have a positive impact on the world.
+  - **Discussion:** I'm Bruce, a Software and Industrial Engineer specializing in JavaScript, React, Node.js, SQL and MongoDB. I love learning, reading and building things that have a positive impact on the world.
 
-  - **Discussion:** I have experience working in manufacturing, transportation, app development, growth hacking and even e-commerce. I have led training sessions, developed complex policies, led a department through a software tranformation and was even commissioning various equipment. In my free time, I make Indie-Pop music.
+  - **Discussion:** I have experience working in manufacturing, transportation, app development, growth hacking and  e-commerce. I have led training sessions, developed complex policies, led a department through a software tranformation and was even commissioning various equipment. In my free time, I make Indie-Pop music.
 
 - [ ] Tell me about your experience at 100Devs.
 
@@ -163,7 +166,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] What do you read on a regular basis?
 
-  - **Discussion:** I love reading non-fiction books and autobiographies of great leaders and entrepreneurs that have had a big impact on the world. The last book I read was the cold start problem by Andrew Chen. The last book I re-read for the third time was Antifragile by Naseem Taleb.
+  - **Discussion:** I love reading non-fiction books and autobiographies of great leaders and entrepreneurs that have had a big impact on the world. The last book I read was the cold start problem by Andrew Chen. The last two books I re-read for the third time was Antifragile by Naseem Taleb and The Essays of Warren Buffett: Lessons for Corporate America
 
 
 - [ ] What's some critical feedback you've gotten recently?
@@ -234,7 +237,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Source:** https://www.frontendinterviewhandbook.com/html-questions
 
 - [x] T-HTML-6) Describe the difference between a cookie, sessionStorage and localStorage.
-  - **Explanation:** Cookies can be initiated by the server, have a manually set expiration date are small file size and are sent to the server with HTTP request. Local and session are both initiated by the client, are a relatively large file and aren't sent to the server. The main difference between local and session is that local storage will persist forever until cleared manually.
+  - **Explanation:** Cookies can be initiated by the server, have a manually set expiration date, are small file size and are sent to the server with HTTP request. LocalStorage and session are both initiated by the client, are a relatively large files and aren't sent to the server. The main difference between local and session is that local storage will persist forever until cleared manually.
   - **Use:** They are all used for client side storage of strings in key-value pairs.
   - **Source:** https://www.frontendinterviewhandbook.com/html-questions
 
@@ -324,11 +327,15 @@ h6 {
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
 
 - [x] T-CSS-4) Describe z-index and how stacking context is formed.
-  - **Explanation:** The `z-index` property in CSS controls the vertical stacking order of elements that overlap. A stacking context is an element that contains a set of layers. The z-index values of its children are set relative to that element rather than to the document root. Layers outside of that context can't sit between layers within it.
+  - **Explanation:** The `z-index` property in CSS controls the vertical stacking order of elements that overlap. Z-index only affects elements that have a position value which is not static.
+
+  A stacking context is an element that contains a set of layers. The z-index values of its children are set relative to that element rather than to the document root. Layers outside of that context can't sit between layers within it.
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
 
 - [x] T-CSS-5) Describe BFC (Block Formatting Context) and how it works.
-  - **Explanation:** A BFC is an HTML box that satisfies at least one of the following conditions:
+  - **Explanation:** A Block Formatting Context (BFC) is part of the visual CSS rendering of a web page in which block boxes are laid out. Floats, absolutely positioned elements, inline-blocks, table-cells, table-captions, and elements with overflow other than visible (except when that value has been propagated to the viewport) establish new block formatting contexts.
+
+   A BFC is an HTML box that satisfies at least one of the following conditions:
     - The value of float is not none.
     - The value of position is neither static nor relative.
     - The value of display is table-cell, table-caption, inline-block, flex, or inline-flex, grid, or inline-grid.
@@ -389,6 +396,8 @@ h6 {
   <rect width="100" height="100" stroke="blue" fill="purple" />
   ```
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
+
+
 - [x] T-CSS-14) Can you give an example of an `@media` property other than screen?
   - **Explanation & Use:** There are four types:
     - `all` - for all media type devices
